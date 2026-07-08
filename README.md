@@ -6,7 +6,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauâ Coelho Monteiro, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio de forma posterior e, em seguida, cursei dois anos de Técnico em Tradução e Interpretação de Libras no IFRS. Atualmente, estou cursando Ciência da Computação na UFRGS. Sou apaixonado por tecnologia, com especial interesse na área de Back-End.
+
 ---
 
 <img align="right" height="155" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU4bGpzMzdpYmg2N2F3Mmc1cDU4aDhqMXdjOGN3bmNzcmdqNWdxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
